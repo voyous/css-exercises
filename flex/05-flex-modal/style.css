@@ -22,6 +22,8 @@ body {
 
 .top {
   display: flex;
+  justify-content: flex-end;
+  align-items: center;
 }
 
 .bottom {
@@ -63,6 +65,7 @@ body {
   justify-content: center;
   border: 1px solid #eee;
   padding: 0;
+  margin-left: auto;
 }
 
 button {
