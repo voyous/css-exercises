@@ -17,9 +17,8 @@ img {
 
 .content {
   display: flex;
-  width: 956px;
-  justify-content: space-between;
-  margin: 0 auto;
+  justify-content: center;
+  gap: 52px;
 }
 
 .barberry, .chilli, .pepper, .saffron {
