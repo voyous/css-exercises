@@ -15,6 +15,11 @@ body {
   justify-content: center;
 }
 
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
 .modal {
   background: white;
   width: 480px;
