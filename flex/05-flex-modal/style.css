@@ -20,6 +20,14 @@ body {
   flex-direction: column;
 }
 
+.top {
+  display: flex;
+}
+
+.bottom {
+  display: flex;
+}
+
 .modal {
   background: white;
   width: 480px;
