@@ -18,7 +18,7 @@ body {
 .container {
   display: flex;
   flex-direction: column;
-  gap: 8px;
+  gap: 16px;
 }
 
 .top {
@@ -29,6 +29,7 @@ body {
 
 .bottom {
   display: flex;
+  gap: 8px;
 }
 
 .header {
@@ -46,8 +47,8 @@ body {
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
   display: flex;
-  padding: 8px;
-  gap: 8px;
+  padding: 16px;
+  gap: 16px;
 }
 
 .icon {
