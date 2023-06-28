@@ -37,6 +37,10 @@ input {
   display: flex;
 }
 
+.right-links {
+  margin-left: auto;
+}
+
 .content {
   align-self: center;
 }
