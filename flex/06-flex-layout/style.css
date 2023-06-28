@@ -8,7 +8,6 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  align-items: center;
 }
 
 img {
@@ -36,4 +35,8 @@ input {
 
 .footer {
   display: flex;
+}
+
+.content {
+  align-self: center;
 }
