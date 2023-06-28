@@ -4,7 +4,6 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  justify-content: flex-end;
 }
 
 .header {
@@ -24,7 +23,7 @@ body {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
-  flex: none;
+  flex: 1 0 auto;
 }
 
 .card {
@@ -35,4 +34,5 @@ body {
 
 .container {
   display: flex;
+  flex: auto;
 }
