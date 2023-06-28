@@ -39,6 +39,10 @@ ul {
   list-style-type: none;
 }
 
+button {
+  padding: 8px 12px;
+}
+
 .header {
   display: flex;
 }
