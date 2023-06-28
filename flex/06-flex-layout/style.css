@@ -45,12 +45,13 @@ ul {
 
 .footer {
   display: flex;
-  background-color: lightgrey;
+  background-color: #eeeeee; 
 }
 
 .left-links, .right-links {
   display: flex;
   gap: 16px;
+  padding: 0 16px;
 }
 
 .right-links {
